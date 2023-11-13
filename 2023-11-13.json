@@ -1,0 +1,26 @@
+{
+  "name": "Cory Ball",
+  "age": 42,
+  "address": {
+    "street": "Fumhi Lane",
+    "city": "Pijserav",
+    "state": "SD",
+    "zip": "44484"
+  },
+  "contact": {
+    "phone": "(217) 307-9453",
+    "servicePhone": "800297219"
+  },
+  "birthday": "1998-02-19T00:15:58.350Z",
+  "ip": "13.12.238.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Asuepe gu nas mo vuz zutiji rav ulava viktuztu vezonal pankusodu hutjup vuhuddof idahu coszub pov lajti ajla. Niwir wewalbol roh luozsud ubocko nuc hohugos ondi ifi piz eh uze ce semujuho heuzlo. Kostih ap ate pehbur ege mehkebem fun macgir big zaasahor seddi kafziul su tapuzup ufiji. Og getjo riod er tencu kibesi pipdujwa jopaw netlur apupegi je oli puawi onitagic hiztaoc onimaf pej. Git toju opuja gev itmuuf epa enotoj ozawu toc ud vife lijwivcil ro cuf talkuj kal nuzhec kan. Daj tu apumos eco wik ejec vighi mob ub ufi ereipfu jo hu uc ozuiho pi pi ruzgukor.",
+    "bio": "Zesepako maco af ficju kihubume bifak zojfod lowijen hotcu ne velisjeh bon. Pul giv gevodige egtusje mubezuv pa somzewiw somiwje tafog ehubef cidoveodi sico kapusun wokcarnam joabiwe ruojaru. Tipidla huplafof ovezeane es umnu kur ojigob urvahek con uv tofu dalemve zefto."
+  },
+  "apiKey": "766d8630763bffd6f16c3d1070704ffc97334e4d5224c2d19a1ac5f22ee01bdf",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
