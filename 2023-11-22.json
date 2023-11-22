@@ -1,0 +1,26 @@
+{
+  "name": "Robert Owen",
+  "age": 39,
+  "address": {
+    "street": "Noprid Grove",
+    "city": "Fizephaj",
+    "state": "RI",
+    "zip": "14800"
+  },
+  "contact": {
+    "phone": "(474) 533-9883",
+    "servicePhone": "800666621"
+  },
+  "birthday": "1962-07-03T11:33:46.183Z",
+  "ip": "66.122.232.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Doc sopli okufo pa cizof didavepa rogmaviw vaifior ha appe tehaoto fuker. Hutkec fosaluw tuzba dovpug niv fuuda fame epceduhi hamdan teptoep mizge luzusfi lo bor nuvcibha. Vabak ukolu uh ume modjelzi le edu aspo zez pohewa ne agoagfot safumfo ildine.",
+    "bio": "Vifdil jal fa role kofsah bo avfalfaf kuh tohluf kozjo mehcago fivo ifbawo temke bowawzob fubcamri. Rigbihul um mivel boufariv si vinje mopeno fafpelewe tojga ejcad zudval unugojvaj arjelir. Wen ekgemeg ulelifsa acaud dahuahe larof kosipe rulege vevu bab pu luvpahe ubhaefe cu namse alibel zec werji."
+  },
+  "apiKey": "e7d33c4284f4cb9769749f0c10992bf28882e6d65e54a636ed4e689aaad5cf53",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
