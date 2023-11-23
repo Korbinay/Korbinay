@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Baldwin",
+  "age": 23,
+  "address": {
+    "street": "Durad Junction",
+    "city": "Mahesoc",
+    "state": "KS",
+    "zip": "92192"
+  },
+  "contact": {
+    "phone": "(737) 925-8335",
+    "servicePhone": "800697277"
+  },
+  "birthday": "1992-10-14T23:59:29.617Z",
+  "ip": "178.100.5.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Gieh up lo sefemen wuzsu zir fuhaj wovi sev ew osogowdo ukumuaku vak kizeni favol. Omru af pawoma wa zuw alujumub le ce zis mahludjo nunleci wefne ufiredez co ubkokit. Impanov om vanocti liap hik moali piob rihloc ilbilu ono wujasi rukvab.",
+    "bio": "Ha voslow faicga gel niti poc jiz iruil teagpeb jusseh azokonon cuvidte weckot ofcali onnoh gauhuga. Zobiniwe jejoeri tot ivu erjew zockicpol ugsuwvi hedliculo ra ho wo fajeco uk movator jivajeha. Ungejba makrocaw fu eke fecok vulku venev pomwaw baetvum vukjel cimane puz bumezu goslul fimgelsa wa bocpuje."
+  },
+  "apiKey": "da22fe3800ef83cdbfcbd1622c7dfb72eab1572f2d709eb9ecdad8c628c3f5b9",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
