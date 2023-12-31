@@ -1,0 +1,26 @@
+{
+  "name": "Bruce White",
+  "age": 39,
+  "address": {
+    "street": "Epsi Square",
+    "city": "Cenucpin",
+    "state": "NC",
+    "zip": "13599"
+  },
+  "contact": {
+    "phone": "(674) 488-6183",
+    "servicePhone": "800915443"
+  },
+  "birthday": "2002-06-11T10:23:00.123Z",
+  "ip": "19.32.239.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Nefo akmih suzveh covmam puvi pu cog potmi lejberim lebbe pobezvin sawojeva tegveh lesceere. Tonav eli windajzu zoav jezabfug newodinim ivniop pafugro rewaez nusujkab jirdev guw uv wemcamej kofha huanonar. Jurpul ped nafjicsaz pi zaflafo amadi latberep jidsiin kur ugoru ji lubaceco zihlomtu ez. Rirviksa wocaj cesisoda eco serjab dolgeake ut ma liv vaslerpos cuomo zihis se tevut zu zudo fitor. Rer vodivik cobvob diz govjep okbac de obigoit ifvakfif cik lol jiomimo bat.",
+    "bio": "Go janavto ke citu fufnebis safguco na galu nokpic gofwigof cavudda cib isu muni lakoluw ril elopu ududuk. Pepe diomwij tavwa sutuvsos lidgimce hacku it igsufhap undi iv ege nacgumla. Moajwa fidzubak mod namir ruga tijikkow conlongoz upomopub dag jorticaf so fo hi gefis jucoweidu muhosben basuw itciv."
+  },
+  "apiKey": "e7b5b99766c7646cda75552415bf3c4d97b4a34a4ec60210c9f45d0f42d6eb32",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
