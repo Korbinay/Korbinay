@@ -1,0 +1,26 @@
+{
+  "name": "Jack Williamson",
+  "age": 22,
+  "address": {
+    "street": "Ruhzo Key",
+    "city": "Utjupu",
+    "state": "AR",
+    "zip": "07087"
+  },
+  "contact": {
+    "phone": "(960) 274-3739",
+    "servicePhone": "800355315"
+  },
+  "birthday": "1962-01-09T15:07:47.041Z",
+  "ip": "148.78.68.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Evco ot sazi wufa upe noflu kof zenav sizoce do ti ro wunus ejib waphom. Fe cumopli kictat opitecbaj tac sahcues se fadjos havonja puwo higow voveke. Filuzbal abhenize puluperu haru paruzhej wol pam caohu ihes icgom ot moha.",
+    "bio": "Nar lez kaf kemickog jikig la luk pafe ce wojumves ju dihhas voce rulidiz rinre fu. Bafuuhe jom ine ufava ukizi tetkajsot fagetako saba jiemna hewolu komukucak aboce epi tiz lup wozuze owuir. Vog hokjo com judlefmaf covciv oma se wol cowtuhik gev unuje jot ewobetu fonibjif. Elabakgum vugjulemi nubteumo ceptutos kuejek vifu wuj cazgajbe sefinusu ji unrurzuf uh hif hejfo vekrobcop ote utha. Incomep pi atata suhavjo gufesa vaid kupan vir motli godro kuwmuav jas wuspacmi. Udiki ko medij obavem egijuce bik rojhowga wefke juetouc fim lo goc azesedug zica zekbici lozet he cav."
+  },
+  "apiKey": "b32b1b891bd907d7aac912afb519147f7e324333993e6c5cd3a6b0b2bf288bd2",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
