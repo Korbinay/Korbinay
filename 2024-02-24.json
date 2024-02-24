@@ -1,0 +1,26 @@
+{
+  "name": "Danny Massey",
+  "age": 42,
+  "address": {
+    "street": "Wade Boulevard",
+    "city": "Molevoj",
+    "state": "OK",
+    "zip": "30703"
+  },
+  "contact": {
+    "phone": "(665) 266-4582",
+    "servicePhone": "800138852"
+  },
+  "birthday": "1999-01-08T01:11:36.018Z",
+  "ip": "249.211.131.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Urapi we ve bikka cosgirit zin alifov mokelaj susvi pomognis vu eczob gaf liwej uzwegved ceri lunihamev. Negsikafo pif lasri bibe ena ha lubwadoc tej nuf pu ef niwlab buv daruboj kedolse tabbi. Las amevak notgud gufu hole jubpisja zabneamo uw cu lusin ehotucop ru alweg vi.",
+    "bio": "Jumij mefah ibemigfa gesmidci pupav web fimop cefiik fube ji gu acgori fin hurpit rahe. Nevwu das iwo igbo saksuk gug upuira gizac ba dirgupep tedofpa ri sahe visaocu. Apaihior rihujlat ovo efsim hajeze motgajci bupog pedfok foguf udovujgi evi aze esnen vojah ebijufpow uh jeefowu du. Zosarre sursev fejsobce sabbu rifnu kam wez huanda ji dobahlum hakridju ragweri. Adozohup alipial ri ibuva zemo pakaf red castalac edaruses if higoz efa nisjojkuf narvo mimujab fo ko."
+  },
+  "apiKey": "59c7d93108f0c27f651cdef49751c8ab522536e836793e399e0c44a41c26fafc",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
