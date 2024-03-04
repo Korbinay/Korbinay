@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Stokes",
+  "age": 40,
+  "address": {
+    "street": "Kipef Pike",
+    "city": "Efonukam",
+    "state": "AL",
+    "zip": "45814"
+  },
+  "contact": {
+    "phone": "(774) 223-2317",
+    "servicePhone": "800729166"
+  },
+  "birthday": "1989-10-09T17:39:37.090Z",
+  "ip": "166.152.161.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Wudeldil hovvesmu illuc acdifnag ce rizmuzbo fakruc vihoki uw ob hoafav juhanasuc ukinez an simfi mu bedub umevevge. Ednu kigor kohuto ziglivrih zo tohob go fumvo ahino ele doma mo wubtobdat. Ton va ileit uni membu kevooha rij pib co akazu tuvahbi wa wangima jitoztu zocojguj uk pig.",
+    "bio": "Etozozdib ma bos eziuk ifnojet kanbab gop ete wijnedaz sivelsis enidepu wahatit razewvom agi bejod fuvseemi norud da. Pemar wauzwu aviwagih wuckuoz viwe cewaw ujoini rolgiwnan loru zetob fueha newleb ake vosuli uc iz sodgat. Avo ifjolnok jizuwtu nahzedpa zo ru leujabo wuvvi bazsi uje wut ra."
+  },
+  "apiKey": "ef0b8e804abbe70022fdee7dde4219ce068edde479a99f7dd4945f9afb42653d",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
