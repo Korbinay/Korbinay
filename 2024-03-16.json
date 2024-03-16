@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Miller",
+  "age": 59,
+  "address": {
+    "street": "Lozev Pass",
+    "city": "Arefupaj",
+    "state": "UT",
+    "zip": "22091"
+  },
+  "contact": {
+    "phone": "(900) 890-3590",
+    "servicePhone": "800358485"
+  },
+  "birthday": "1964-11-10T05:49:26.693Z",
+  "ip": "89.127.66.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Tamoje te duj rasu ej kucodnu wo fuz solnalar ja wu gi moos. Tukiredi pud iwceot wapikama utieb jojan na co viwot zej li le weanpij jar wa bi ce. Vuaj tiw vevram fice sur zofeni lapohlev ku umi pajibvej is okepoj fil. Temuc fihravi he tugocra te wac owetul iz nohase leepa hu tecaf jat. Hek rilislek kot mu mapkofhi elnocpet um ebigejbic pi zamseb riok tukuwaesa war ki cilpe laredto amifi. Tohogo fovedo golag ni ake cen le rihufati saleju aziizol cohufeog doobiduj utuna daprizi fug tazeiv. Ke zuref opusiphe pear abo fowiwaw dakubol wid zo godatvi bukwuli ba jokomkuj okupuh sipa tit.",
+    "bio": "Ekezi jaz udotoho go lebomra ce eso ow gahhiku kecsonodu silehaki fupfesrun zerib. Kucho us ropzenup teca ehaserwok sifgab sieg ecofi bu koiravov gap isovu vu wuk zuko eripoabe. Lomoc zizo nuka lo kaspuj kivcisvo tajjecul muhagi wijjonte caw dobimu urdew haugu osa lepfeta ohcozma. Jajewa biw iko led meuje atuve tewlupi tinfiforo efroful ovolu tah afasitnan hajzo dicza izdarcu ak. Eba luzreva efu reltocnuv kiz fec geim watnip naril ofobalas gaiw efawi wapot. Kovega dawis fef ehopov junde wuupi kadaniko aktu nofpihru cirre temwanko dos."
+  },
+  "apiKey": "1bf7f5a0c2f533ced29cb517aaff1dad29424bebb481e5b50a0d3bca990c32d1",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
