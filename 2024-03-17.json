@@ -1,0 +1,26 @@
+{
+  "name": "Norman Morrison",
+  "age": 57,
+  "address": {
+    "street": "Ubidin Plaza",
+    "city": "Hiptobi",
+    "state": "NY",
+    "zip": "25402"
+  },
+  "contact": {
+    "phone": "(760) 832-5579",
+    "servicePhone": "800938152"
+  },
+  "birthday": "1973-12-06T11:23:06.662Z",
+  "ip": "47.111.246.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba hoggoaro nu hot gusidsor izuduha ruve juniv puslo miomuobo lipa dezo hobos bijotifu wores sofaipi si caoha. Orlidjem ackik got vic never tim wuhnuz vu ickup ajjuf kuzejoj sorde medih tezojve. Uzaso jijje vu unofitku raca vas pap ofugatja mojbehew fepza lufle pu bakijit ku gartu izor zihfe.",
+    "bio": "Wopah womab petog ifvobman avhugce su ca hazjor paz da ha tetike he. Bevo jantaci je va egonog peowa cutucfer sekose elved ipivih gakba ajopewo ji cuc pohosi. Jeb duhzozo firevbo ohuso ifijibwev akvod ahezapo deit niduwi hofjalik acafic be sawwupwa fohu ud. Leake luhocejok emafusbo zatjece erini gire mebowafu uca ka ine sajmep tesda ebra aro tun vipici."
+  },
+  "apiKey": "37a72ed0c6fdd3f959a03b0f8e8f1c843bc9fa88486964c43956ff0a11b16685",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
