@@ -1,0 +1,26 @@
+{
+  "name": "Justin Barton",
+  "age": 43,
+  "address": {
+    "street": "Nuit Way",
+    "city": "Hounepe",
+    "state": "MI",
+    "zip": "03822"
+  },
+  "contact": {
+    "phone": "(269) 447-5423",
+    "servicePhone": "800196218"
+  },
+  "birthday": "2002-06-29T17:08:34.375Z",
+  "ip": "206.194.179.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Islonkad ho safjir nida cavje ligpi tiwibe luhcoigo ri norom cogfocug av ukewaf toadhip heze sivtag. Det bes tol kirjompat balicpek pous ranze tehutob jecocu fut pageh robu zaflurdad movzer zale. Ivrazip bu metrot givuddo capjij ip ojoiv cifkupid lelzekbo pukat zedah rikobu wazpa.",
+    "bio": "Hov codonwib ciujad sorpocut tu muz aticerli kok dev jede okomeob vawavu val cihelehe de didke odaufuni rolvuh. Julgo tug fun aj vokjeub zeb harje debsijcej lir nonarniz fofumak roduwev li pog cezazagu su. Igotuul vasoz pulu gostojid icamanu gajowej du da gipcipjub kake mel jucofesi. Bih niz afpiman dapgewmid pero bo viofa resilo tub apfiso ednuz joke ujisircod doboga co fi ukuogipuf. Gog mafpulfa gowokojo haebujig pekaga cemni bujkig hiflak ubdigit fe tog lu nojjop uza we rig vivupajal fa. Cocbiwak cihgivsul tebano radba tespibwu pal bo ama ba emi ocjob samzu rizigro esdafbi tajka sewaphun nunu gogzek."
+  },
+  "apiKey": "e6284815154c43b9f7cde3a99bb5c048aa24f814e68727948c7c16ed65a1cf19",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
