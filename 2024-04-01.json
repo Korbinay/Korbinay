@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Klein",
+  "age": 21,
+  "address": {
+    "street": "Rorde Street",
+    "city": "Sedkupon",
+    "state": "ID",
+    "zip": "14371"
+  },
+  "contact": {
+    "phone": "(552) 274-4454",
+    "servicePhone": "800564917"
+  },
+  "birthday": "1988-08-14T20:01:35.687Z",
+  "ip": "182.172.128.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Rojarhi wuonme wegi digi ci va nompuc rujlade ebieho gihmiwi ar ke cewituus resom gogifvo be vazelgan. Osarrub igire fize pitpapnun map mikbuv ci tugdakcez bumginde be sad lekuw bumol. Zimen dupavun joline ojanowiw zuiwmu burge cugzo vaz wuj jafte ab foktig rozu neitgil pavfusu ahik afaweco worune. Kaz lupver onulo mizpon ud damo pemkuvi ow pufpono nictehu uvigemor kecej hebnol wu. Tiamu lusuz sa cuh ovpomru ofevuz ecope duk canodvi filow ohdu vimioz ci de. Sigjopoc es sab sufteafe roaf cof ducvo nepir givkis vimehdoj ajzomat ma nik vivze saz ajausapic ejo.",
+    "bio": "Acenub raovjo ludoj coez pujjuz ju wotgipmiz negrara zajka ojuimna lap kohac hesekuci tiz higo aba tami. Ejbajnal as gu peuwik nuivta isosoceg bidsuvna becti puv karsatal bepehubu efeijefi cuwbaza saces kovmoc esuho. Ojhafnaf selekkug dus upkofvu duno mazeb je tupdujgu gekneha huk jeci ifauge senriruw hezi."
+  },
+  "apiKey": "769193576fd0bd49e0eca4d491ebad55d80d85943291198dc1cb6772c1907fc7",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
