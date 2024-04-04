@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Fisher",
+  "age": 62,
+  "address": {
+    "street": "Puezu Trail",
+    "city": "Ofcotoh",
+    "state": "NV",
+    "zip": "71214"
+  },
+  "contact": {
+    "phone": "(887) 281-2522",
+    "servicePhone": "800762945"
+  },
+  "birthday": "1965-02-07T08:30:37.377Z",
+  "ip": "137.58.243.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Coterip mopo petaforud utibenow wewjarcoj tuwitco hutif sujep bovaha cesmijtos anegozlas he na kib mehrubron meuc zegnonti. Muldehe picguof etaik massudam ifuvevi rom sogdog fenu vepuc ga rilnopur pugwav bukir pawve wemgikzo. Huh ruwjep ke koz jafho abvozvok ivatojuj otago wa urifevbir nanir zizwu.",
+    "bio": "Zoato epda ocabehniw seof picuni echac jar fed pecwow jecget tut sesugem fabhawabe. Fivez tewsuti bepko usavo zialiho rucucu zi abo mujje pih od wam ogirti soesepo il watonu. Ikuficleb av jukummul pirhakiz hah zokutam vof loj zes nezzor waksu ec oc."
+  },
+  "apiKey": "51f4bc6c26c45b80a1a4111feae914f443bdb90da3282318aaaf6494cfbc1390",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
